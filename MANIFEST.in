@@ -1,0 +1,2 @@
+recursive-include shimehari_debugtoolbar/templates *.html
+recursive-include shimehari_debugtoolbar/static *
